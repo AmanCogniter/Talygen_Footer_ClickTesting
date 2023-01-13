@@ -31,17 +31,19 @@ public class FooterPage extends WebBasePage{
 	
      public void clickOnContributeABetterTranslation()
      {		//staticWait(5000);
-     WebDriverWait wait = new WebDriverWait(driver,50);
-       wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div/span[@id='ContributeToLang']")));
+			
+			  WebDriverWait wait = new WebDriverWait(driver,50);
+			  wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(
+			  "//div/span[@id='ContributeToLang']")));
+			 
 		/*
 		 * JavascriptExecutor js = (JavascriptExecutor) driver;
 		 * js.executeScript("window.scrollBy(0,document.body.scrollHeight)");
 		 */
 			 
 			
-			  WebElement contribute =
-			  driver.findElement(By.xpath("//div/span[@id='ContributeToLang']")); Actions
-			  action = new Actions(driver);
+			  WebElement contribute =driver.findElement(By.xpath("//div/span[@id='ContributeToLang']")); 
+			  Actions action = new Actions(driver);
 			  action.moveToElement(contribute).doubleClick().perform();
 			  logger.info("Contribute a better translation Clicked succesfully");
     	// click(By.xpath("//div/span[@id='ContributeToLang']"),"Contribute a better translation", 30);

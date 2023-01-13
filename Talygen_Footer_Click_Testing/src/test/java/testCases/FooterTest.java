@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import action.FooterAction;
 import action.LoginAction;
 import utils.WebTestBase;
-
+/**
+ * 
+ * @author aanand
+ *
+ */
 public class FooterTest extends WebTestBase{
 	static String Screenname = "<b>Footer</b>"; 
 	/*
