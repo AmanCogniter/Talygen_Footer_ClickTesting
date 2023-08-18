@@ -17345,3 +17345,176 @@ Session ID: 3bece54088fb19b124f9270af016b669
 2022-12-07 17:59:10,874  INFO [main] User Login Page:305 - Ticketing Page opened succesfully
 2022-12-07 17:59:28,286  INFO [main] User Login Page:113 - Footer Logo clicked 
 2022-12-07 17:59:28,376  INFO [main] User Login Page:324 - Home page opened succesfully
+2023-01-20 15:22:06,253  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-01-20 15:22:06,698  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-01-20 15:22:07,145  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-01-20 15:22:07,853  INFO [main] User Login Page:113 - Login clicked 
+2023-01-20 15:22:20,551  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-01-20 15:22:23,600  INFO [main] User Login Page:55 - Contribute a better translation Page opened succesfully
+2023-01-20 15:22:32,333  INFO [main] User Login Page:113 - Close Button clicked 
+2023-01-20 15:22:37,741  INFO [main] User Login Page:113 - FeedBack clicked 
+2023-01-20 15:22:37,799  INFO [main] User Login Page:123 - Feedback Page opened succesfully
+2023-01-20 15:22:46,440  INFO [main] User Login Page:113 - Cancel Button clicked 
+2023-01-20 15:22:51,717  INFO [main] User Login Page:113 - Terms of Service clicked 
+2023-01-20 15:22:51,797  INFO [main] User Login Page:148 - Terms & Conditions Page opened succesfully
+2023-01-20 15:22:56,338  INFO [main] User Login Page:113 - About Talygen clicked 
+2023-01-20 15:22:56,438  INFO [main] User Login Page:167 - About Us Page opened succesfully
+2023-01-20 15:22:59,102  INFO [main] User Login Page:113 - About Us clicked 
+2023-01-20 15:23:41,484  INFO [main] User Login Page:193 - About Us Page opened succesfully
+2023-01-20 15:23:46,142  INFO [main] User Login Page:113 - Our Mission clicked 
+2023-01-20 15:24:05,155  INFO [main] User Login Page:231 - Our Mission Page not opened succesfully
+2023-01-20 15:24:09,755  INFO [main] User Login Page:113 - Contact us clicked 
+2023-01-20 15:24:31,375  INFO [main] User Login Page:259 - Contact us Page opened succesfully
+2023-01-20 15:24:39,296  INFO [main] User Login Page:113 - Help clicked 
+2023-01-20 15:24:39,336  INFO [main] User Login Page:285 - Help Page opened succesfully
+2023-01-20 15:24:44,747  INFO [main] User Login Page:113 - TALYGEN Support clicked 
+2023-01-20 15:24:44,802  INFO [main] User Login Page:305 - Ticketing Page opened succesfully
+2023-01-20 15:25:02,738  INFO [main] User Login Page:113 - Footer Logo clicked 
+2023-01-20 15:25:02,812  INFO [main] User Login Page:324 - Home page opened succesfully
+2023-01-23 17:56:03,848  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-01-23 17:56:04,358  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-01-23 17:56:05,722  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-01-23 17:56:07,514  INFO [main] User Login Page:113 - Login clicked 
+2023-01-23 17:56:41,320  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-01-23 17:56:44,400  INFO [main] User Login Page:55 - Contribute a better translation Page opened succesfully
+2023-01-23 17:56:48,077  INFO [main] User Login Page:113 - Close Button clicked 
+2023-01-23 17:56:54,921  INFO [main] User Login Page:113 - FeedBack clicked 
+2023-01-23 17:56:54,966  INFO [main] User Login Page:123 - Feedback Page opened succesfully
+2023-01-23 17:57:03,299  INFO [main] User Login Page:113 - Cancel Button clicked 
+2023-01-23 17:57:08,957  INFO [main] User Login Page:113 - Terms of Service clicked 
+2023-01-23 17:57:09,037  INFO [main] User Login Page:148 - Terms & Conditions Page opened succesfully
+2023-01-23 17:57:13,645  INFO [main] User Login Page:113 - About Talygen clicked 
+2023-01-23 17:57:13,705  INFO [main] User Login Page:167 - About Us Page opened succesfully
+2023-01-23 17:57:16,375  INFO [main] User Login Page:113 - About Us clicked 
+2023-01-23 17:57:33,614  INFO [main] User Login Page:198 - About Us Page not opened succesfully
+2023-01-23 17:57:38,286  INFO [main] User Login Page:113 - Our Mission clicked 
+2023-01-23 17:57:41,652  INFO [main] User Login Page:226 - Our Mission Page opened succesfully
+2023-01-23 17:57:46,334  INFO [main] User Login Page:113 - Contact us clicked 
+2023-01-23 17:57:53,982  INFO [main] User Login Page:259 - Contact us Page opened succesfully
+2023-01-23 17:58:03,518  INFO [main] User Login Page:113 - Help clicked 
+2023-01-23 17:58:03,569  INFO [main] User Login Page:285 - Help Page opened succesfully
+2023-01-23 17:58:09,407  INFO [main] User Login Page:113 - TALYGEN Support clicked 
+2023-01-23 17:58:09,458  INFO [main] User Login Page:305 - Ticketing Page opened succesfully
+2023-01-23 17:58:45,643  INFO [main] User Login Page:113 - Footer Logo clicked 
+2023-01-23 17:58:45,706  INFO [main] User Login Page:324 - Home page opened succesfully
+2023-03-23 16:57:47,643  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-03-23 16:57:48,071  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-03-23 16:57:48,412  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-03-23 16:57:49,168  INFO [main] User Login Page:113 - Login clicked 
+2023-03-23 16:58:02,110  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-03-23 16:58:41,546  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-03-23 16:58:41,967  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-03-23 16:58:42,299  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-03-23 16:58:43,004  INFO [main] User Login Page:113 - Login clicked 
+2023-03-23 16:58:55,808  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-03-23 16:58:58,855  INFO [main] User Login Page:55 - Contribute a better translation Page opened succesfully
+2023-03-23 16:59:02,938  INFO [main] User Login Page:113 - Close Button clicked 
+2023-03-23 16:59:08,625  INFO [main] User Login Page:113 - FeedBack clicked 
+2023-03-23 16:59:08,690  INFO [main] User Login Page:123 - Feedback Page opened succesfully
+2023-03-23 16:59:17,087  INFO [main] User Login Page:113 - Cancel Button clicked 
+2023-03-23 16:59:24,298  INFO [main] User Login Page:113 - Terms of Service clicked 
+2023-03-23 16:59:24,345  INFO [main] User Login Page:148 - Terms & Conditions Page opened succesfully
+2023-03-23 16:59:28,975  INFO [main] User Login Page:113 - About Talygen clicked 
+2023-03-23 16:59:29,070  INFO [main] User Login Page:167 - About Us Page opened succesfully
+2023-03-23 16:59:31,807  INFO [main] User Login Page:113 - About Us clicked 
+2023-03-23 16:59:39,220  INFO [main] User Login Page:193 - About Us Page opened succesfully
+2023-03-23 16:59:43,855  INFO [main] User Login Page:113 - Our Mission clicked 
+2023-03-23 16:59:48,124  INFO [main] User Login Page:231 - Our Mission Page not opened succesfully
+2023-03-23 16:59:52,795  INFO [main] User Login Page:113 - Contact us clicked 
+2023-03-23 16:59:58,274  INFO [main] User Login Page:259 - Contact us Page opened succesfully
+2023-03-23 17:00:07,000  INFO [main] User Login Page:113 - Help clicked 
+2023-03-23 17:00:07,037  INFO [main] User Login Page:285 - Help Page opened succesfully
+2023-03-23 17:00:12,971  INFO [main] User Login Page:113 - TALYGEN Support clicked 
+2023-03-23 17:00:13,035  INFO [main] User Login Page:305 - Ticketing Page opened succesfully
+2023-03-23 17:00:48,925  INFO [main] User Login Page:113 - Footer Logo clicked 
+2023-03-23 17:00:48,987  INFO [main] User Login Page:324 - Home page opened succesfully
+2023-03-23 17:05:53,747  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-03-23 17:05:54,228  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-03-23 17:05:54,589  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-03-23 17:05:55,321  INFO [main] User Login Page:113 - Login clicked 
+2023-03-23 17:06:03,824  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-03-28 18:09:58,306  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-03-28 18:09:58,746  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-03-28 18:09:59,112  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-03-28 18:09:59,808  INFO [main] User Login Page:113 - Login clicked 
+2023-03-28 18:10:08,370  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-03-28 18:10:45,061  INFO [main] User Login Page:123 - Close Button not clicked
+2023-03-28 18:10:45,658  INFO [main] FooterTest-ValidateClickTestingOfFooterPage:75 - Method - ValidateClickTestingOfFooterPage failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Talygen_FooterClickTesting\Talygen_Footer_Click_Testing\reports\ValidateClickTestingOfFooterPage_20230328181045.png
+2023-03-28 18:11:14,613  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-03-28 18:11:15,021  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-03-28 18:11:15,354  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-03-28 18:11:16,048  INFO [main] User Login Page:113 - Login clicked 
+2023-03-28 18:11:28,946  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-03-28 18:11:31,990  INFO [main] User Login Page:55 - Contribute a better translation Page opened succesfully
+2023-03-28 18:11:35,509  INFO [main] User Login Page:113 - Close Button clicked 
+2023-03-28 18:11:41,101  INFO [main] User Login Page:113 - FeedBack clicked 
+2023-03-28 18:11:41,150  INFO [main] User Login Page:123 - Feedback Page opened succesfully
+2023-03-28 18:11:49,572  INFO [main] User Login Page:113 - Cancel Button clicked 
+2023-03-28 18:11:55,110  INFO [main] User Login Page:113 - Terms of Service clicked 
+2023-03-28 18:11:55,184  INFO [main] User Login Page:148 - Terms & Conditions Page opened succesfully
+2023-03-28 18:11:59,970  INFO [main] User Login Page:113 - About Talygen clicked 
+2023-03-28 18:12:00,063  INFO [main] User Login Page:167 - About Us Page opened succesfully
+2023-03-28 18:12:02,756  INFO [main] User Login Page:113 - About Us clicked 
+2023-03-28 18:12:26,829  INFO [main] User Login Page:193 - About Us Page opened succesfully
+2023-03-28 18:12:31,503  INFO [main] User Login Page:113 - Our Mission clicked 
+2023-03-28 18:12:35,717  INFO [main] User Login Page:231 - Our Mission Page not opened succesfully
+2023-03-28 18:12:40,339  INFO [main] User Login Page:113 - Contact us clicked 
+2023-03-28 18:12:43,571  INFO [main] User Login Page:259 - Contact us Page opened succesfully
+2023-03-28 18:12:51,838  INFO [main] User Login Page:113 - Help clicked 
+2023-03-28 18:12:51,879  INFO [main] User Login Page:285 - Help Page opened succesfully
+2023-03-28 18:12:57,752  INFO [main] User Login Page:113 - TALYGEN Support clicked 
+2023-03-28 18:12:57,800  INFO [main] User Login Page:305 - Ticketing Page opened succesfully
+2023-03-28 18:13:06,198  INFO [main] User Login Page:113 - Footer Logo clicked 
+2023-03-28 18:13:06,351  INFO [main] User Login Page:324 - Home page opened succesfully
+2023-04-14 17:05:59,946  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-04-14 17:06:00,437  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-04-14 17:06:00,848  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-04-14 17:06:01,583  INFO [main] User Login Page:113 - Login clicked 
+2023-04-14 17:06:13,474  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-04-14 17:06:17,834  INFO [main] User Login Page:55 - Contribute a better translation Page opened succesfully
+2023-04-14 17:06:21,755  INFO [main] User Login Page:113 - Close Button clicked 
+2023-04-14 17:06:27,377  INFO [main] User Login Page:113 - FeedBack clicked 
+2023-04-14 17:06:27,421  INFO [main] User Login Page:123 - Feedback Page opened succesfully
+2023-04-14 17:06:35,847  INFO [main] User Login Page:113 - Cancel Button clicked 
+2023-04-14 17:06:41,699  INFO [main] User Login Page:113 - Terms of Service clicked 
+2023-04-14 17:06:41,763  INFO [main] User Login Page:148 - Terms & Conditions Page opened succesfully
+2023-04-14 17:06:46,675  INFO [main] User Login Page:113 - About Talygen clicked 
+2023-04-14 17:06:46,765  INFO [main] User Login Page:167 - About Us Page opened succesfully
+2023-04-14 17:06:49,403  INFO [main] User Login Page:113 - About Us clicked 
+2023-04-14 17:07:18,663  INFO [main] User Login Page:193 - About Us Page opened succesfully
+2023-04-14 17:07:23,345  INFO [main] User Login Page:113 - Our Mission clicked 
+2023-04-14 17:07:27,851  INFO [main] User Login Page:231 - Our Mission Page not opened succesfully
+2023-04-14 17:07:32,497  INFO [main] User Login Page:113 - Contact us clicked 
+2023-04-14 17:07:38,197  INFO [main] User Login Page:259 - Contact us Page opened succesfully
+2023-04-14 17:07:48,624  INFO [main] User Login Page:113 - Help clicked 
+2023-04-14 17:07:48,664  INFO [main] User Login Page:285 - Help Page opened succesfully
+2023-04-14 17:07:54,642  INFO [main] User Login Page:113 - TALYGEN Support clicked 
+2023-04-14 17:07:54,693  INFO [main] User Login Page:305 - Ticketing Page opened succesfully
+2023-04-14 17:08:26,636  INFO [main] User Login Page:113 - Footer Logo clicked 
+2023-04-14 17:08:26,692  INFO [main] User Login Page:324 - Home page opened succesfully
+2023-07-12 22:44:18,477  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2023-07-12 22:44:18,924  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2023-07-12 22:44:19,260  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-07-12 22:44:20,014  INFO [main] User Login Page:113 - Login clicked 
+2023-07-12 22:44:35,538  INFO [main] User Login Page:48 - Contribute a better translation Clicked succesfully
+2023-07-12 22:44:38,666  INFO [main] User Login Page:55 - Contribute a better translation Page opened succesfully
+2023-07-12 22:44:42,449  INFO [main] User Login Page:113 - Close Button clicked 
+2023-07-12 22:44:49,268  INFO [main] User Login Page:113 - FeedBack clicked 
+2023-07-12 22:44:49,329  INFO [main] User Login Page:123 - Feedback Page opened succesfully
+2023-07-12 22:45:01,067  INFO [main] User Login Page:113 - Cancel Button clicked 
+2023-07-12 22:45:08,731  INFO [main] User Login Page:113 - Terms of Service clicked 
+2023-07-12 22:45:08,793  INFO [main] User Login Page:148 - Terms & Conditions Page opened succesfully
+2023-07-12 22:45:14,437  INFO [main] User Login Page:113 - About Talygen clicked 
+2023-07-12 22:45:14,497  INFO [main] User Login Page:167 - About Us Page opened succesfully
+2023-07-12 22:45:17,218  INFO [main] User Login Page:113 - About Us clicked 
+2023-07-12 22:45:45,493  INFO [main] User Login Page:193 - About Us Page opened succesfully
+2023-07-12 22:45:50,154  INFO [main] User Login Page:113 - Our Mission clicked 
+2023-07-12 22:45:54,342  INFO [main] User Login Page:231 - Our Mission Page not opened succesfully
+2023-07-12 22:45:59,037  INFO [main] User Login Page:113 - Contact us clicked 
+2023-07-12 22:46:02,232  INFO [main] User Login Page:259 - Contact us Page opened succesfully
+2023-07-12 22:46:11,322  INFO [main] User Login Page:113 - Help clicked 
+2023-07-12 22:46:11,372  INFO [main] User Login Page:285 - Help Page opened succesfully
+2023-07-12 22:46:20,140  INFO [main] User Login Page:113 - TALYGEN Support clicked 
+2023-07-12 22:46:20,187  INFO [main] User Login Page:305 - Ticketing Page opened succesfully
+2023-07-12 22:46:27,204  INFO [main] User Login Page:113 - Footer Logo clicked 
+2023-07-12 22:46:27,378  INFO [main] User Login Page:324 - Home page opened succesfully
